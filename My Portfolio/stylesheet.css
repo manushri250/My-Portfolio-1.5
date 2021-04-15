@@ -1,0 +1,36 @@
+h1{
+    color :rgb(127, 14, 233);
+}
+
+
+/*{
+    border : solid;
+
+}*/
+
+h2, p{
+   text-align: center;
+}
+
+
+
+.header{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.mail{
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #808080;
+}
